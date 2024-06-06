@@ -6,7 +6,7 @@ This Flutter application is an AI-powered chat bot that leverages Google's Gemin
 ## Screenshot
 
 <p align="center">
-  <img src="./screenshots/app.png" alt="Project demo" style="width:200%;" />
+  <img src="./screenshots/app.png" alt="Project demo" style="width:50%;" />
 </p>
 
 
