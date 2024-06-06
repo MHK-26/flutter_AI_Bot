@@ -1,6 +1,6 @@
 import 'package:ai_bot/chat/view/view.dart';
 import 'package:ai_bot/constants/constants.dart';
-import 'package:ai_bot/theme/theme_repo.dart';
+import 'package:ai_bot/theme/repo/theme_repo.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
