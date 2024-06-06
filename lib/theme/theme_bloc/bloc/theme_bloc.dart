@@ -1,4 +1,4 @@
-import 'package:ai_bot/theme/theme_repo.dart';
+import 'package:ai_bot/theme/theme.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:equatable/equatable.dart';
 

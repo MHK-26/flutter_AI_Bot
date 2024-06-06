@@ -1,12 +1,11 @@
 import 'package:ai_bot/chat/chat.dart';
 import 'package:ai_bot/chat/widgets/widgets.dart';
-import 'package:ai_bot/theme/theme_bloc/bloc/theme_bloc.dart';
+import 'package:ai_bot/theme/theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:google_generative_ai/google_generative_ai.dart';
 
-/// ChatScreen widget to display and handle chat interactions.
 class ChatScreen extends StatefulWidget {
   const ChatScreen({super.key});
 
